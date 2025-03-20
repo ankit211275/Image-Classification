@@ -1,5 +1,5 @@
 # **Sad or Happy Image Classifier**
-
+## **Access it live on :** https://moodpredict.streamlit.app
 This project is a deep learning model developed to classify images into two categories: Happy or Sad. The model is built from scratch using Convolutional Neural Networks (CNNs) to analyze and predict the sentiment from images.
 Project Overview
 
