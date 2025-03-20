@@ -1,0 +1,7 @@
+tensorflow-macos
+streamlit
+numpy
+opencv-python
+pillow
+scikit-learn
+keras
