@@ -1,4 +1,4 @@
-tensorflow-macos
+tensorflow
 streamlit
 numpy
 opencv-python
